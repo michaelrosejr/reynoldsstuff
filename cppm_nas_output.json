@@ -1,0 +1,39 @@
+{
+    "id": 3007,
+    "name": "yAye-MGMT-Devices",
+    "description": "yAye-TACACS-Auth",
+    "ip_address": "1.1.1.0/24",
+    "radius_secret": "",
+    "tacacs_secret": "",
+    "vendor_name": "Aruba",
+    "vendor_id": 14823,
+    "coa_capable": true,
+    "coa_port": 3799,
+    "attributes": {
+        "Device Type": "IAP"
+    },
+    "_links": {
+        "self": {
+            "href": "https://10.0.1.18/api/network-device/3007"
+        }
+    }
+}{
+    "id": 3008,
+    "name": "yBee-MGMT-Devices",
+    "description": "yBee-TACACS-Auth",
+    "ip_address": "2.2.1.0/24",
+    "radius_secret": "",
+    "tacacs_secret": "",
+    "vendor_name": "Aruba",
+    "vendor_id": 14823,
+    "coa_capable": true,
+    "coa_port": 3799,
+    "attributes": {
+        "Device Type": "IAP"
+    },
+    "_links": {
+        "self": {
+            "href": "https://10.0.1.18/api/network-device/3008"
+        }
+    }
+}
